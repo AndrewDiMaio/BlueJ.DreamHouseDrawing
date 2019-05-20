@@ -1,3 +1,5 @@
+package Picture;
+
 
 /**
  * This class represents a simple picture. You can draw the picture using
@@ -8,7 +10,7 @@
  * This class was written as an early example for teaching Java with BlueJ.
  * 
  * @author  Michael Kölling and David J. Barnes
- * @version 1.1  (24 May 2001)
+ * @version 1.1  (24 extends Canvas May 2001)
  */
 public class Picture
 {

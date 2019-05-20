@@ -1,3 +1,5 @@
+package Picture;
+
 import java.awt.*;
 
 /**
